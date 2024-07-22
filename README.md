@@ -1,4 +1,6 @@
-# Coding-Raja-Technologies-Internship-Fraud--Trandsection
+# Coding-Raja-Technologies-Internship-Fraud-detection-in-financial-transaction
+
+****Fraud-detection-in-financial-transaction****
 
 
 Welcome to the Fraud Detection System project! This repository contains the code and resources for a machine learning system designed to detect fraudulent financial transactions.
@@ -39,3 +41,9 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 **Acknowledgements**
 Special thanks to the Coding Raja team for their support and guidance.
 The datasets and resources used in this project are greatly appreciated.
+![Screenshot 2024-07-22 234341](https://github.com/user-attachments/assets/cb295f91-aa89-4c5c-9128-19e13cc95ed2)
+![Screenshot 2024-07-22 234427](https://github.com/user-attachments/assets/5d0016e1-5a19-4419-8ada-705e369f488e)
+![Screenshot 2024-07-22 234517](https://github.com/user-attachments/assets/ffb86fc1-e33f-4b5a-b5cf-2405e53051f1)
+![Screenshot 2024-07-22 234539](https://github.com/user-attachments/assets/e4855b32-a597-4fdf-be8c-5adabf07a32f)
+
+
