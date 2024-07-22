@@ -7,9 +7,13 @@ Welcome to the Fraud Detection System project! This repository contains the code
 
 
 **Introduction**
+
+
 This project aims to build a robust Fraud Detection System that can identify potentially fraudulent financial transactions. By leveraging advanced machine learning techniques, the system analyzes transaction data to detect anomalies and suspicious patterns that may indicate fraudulent activity.
 
 **Features**
+
+
 Data Preprocessing: Cleaning and preparing transaction data for analysis.
 Feature Engineering: Extracting relevant features to improve model performance.
 Model Training: Implementing and training various machine learning models.
@@ -18,6 +22,8 @@ Prediction: Making predictions on new transaction data to identify potential fra
 
 
 **Dataset**
+
+
 The dataset used for this project includes transaction records with labeled examples of both fraudulent and non-fraudulent transactions. For confidentiality reasons, the dataset is not included in this repository. You can obtain similar datasets from sources like Kaggle or other public datasets.
 
 **Model**
@@ -26,19 +32,28 @@ The Fraud Detection System employs various machine learning algorithms to identi
 Logistic Regression
 
 **Neural Networks**
+
+
 The best-performing model is selected based on evaluation metrics and is used for making predictions.
 
 **Results**
+
+
 The performance of the Fraud Detection System is evaluated using several metrics:
 
 Accuracy: Overall correctness of the model.
+
 Precision: The proportion of true positive predictions among all positive predictions.
 
 
 **Contributing**
+
+
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please create an issue or submit a pull request.
 
 **Acknowledgements**
+
+
 Special thanks to the Coding Raja team for their support and guidance.
 The datasets and resources used in this project are greatly appreciated.
 ![Screenshot 2024-07-22 234341](https://github.com/user-attachments/assets/cb295f91-aa89-4c5c-9128-19e13cc95ed2)
